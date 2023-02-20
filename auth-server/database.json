@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "email": "kumar@draft.dev",
+      "password": "$2b$10$XccSsh0YszxUYbWWHQZZfeGH87YSE3pP7G4uFQyLFsELaeOLGdBO."
+    },
+    {
+      "email": "hey@kumarharsh.me",
+      "password": "$2b$10$Lrm/GG7Klwylen9MXifus.H/TardFqnvBjD8LYXXjiuzEx.kXbz2u"
+    }
+  ]
+}
